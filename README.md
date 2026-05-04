@@ -1,4 +1,4 @@
-# 🎓 Face Recognition Student Result System
+# Face Recognition Student Result System
 
 This project is a web-based Student Result Management System integrated with Face Recognition Attendance.
 
